@@ -41,6 +41,8 @@ Run server
 ```php artisan serve```
 
 Register - http://localhost:8000/auth/register (on success you will hit a 404 page)
+
 Login - http://localhost:8000/auth/login (you should see "Hello YOUR NAME"
+
 Logout - http://localhost:8000/auth/logout
 
